@@ -1,1 +1,1 @@
-# Osama
+# This repository contains the code for a cross-domain fake review detection system. The model combines sentence-level SBERT embeddings with CNN-BiLSTM architecture and numeric features extracted from text, including psycholinguistic and readability metrics. The system is designed to work across multiple domains such as restaurants, hotels, and doctor reviews.
